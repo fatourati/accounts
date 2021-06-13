@@ -1,1 +1,12 @@
-hayatiana@mail.com|xCHn!2BrgU?3Wpf,souad67@mail.com|xCHn!2BrgU?3Wpf,iiamd76767@webname.com|xCHn!2BrgU?3Wpf,bahsiro@post.com|xCHn!2BrgU?3Wpf,sbaii22@engineer.com|xCHn!2BrgU?3Wpf,rihan-66@mail.com|xCHn!2BrgU?3Wpf,bahadoha@collector.org|xCHn!2BrgU?3Wpf,mourad23@arcticmail.com|xCHn!2BrgU?3Wpf
+#EXTM3U
+#EXTINF:0 tvg-country="2M" tvg-logo="https://raw.githubusercontent.com/fatourati/accounts/main/2m.jpg" group-title="من أجل ابني",180
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/4/1622817682/1622817682/2021-06-04-154122.065876qlkpr.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="https://raw.githubusercontent.com/fatourati/accounts/main/2m.jpg" group-title="من أجل ابني",181
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/7/1623075188/1623075188/2021-06-07-151308.436738ngqvl.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="https://raw.githubusercontent.com/fatourati/accounts/main/2m.jpg" group-title="من أجل ابني",182
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/8/1623160748/1623160748/2021-06-08-145908.454350nefpo.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="https://raw.githubusercontent.com/fatourati/accounts/main/2m.jpg" group-title="من أجل ابني",183
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/9/1623249058/1623249058/2021-06-09-153058.617170ybgjf.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="https://raw.githubusercontent.com/fatourati/accounts/main/2m.jpg" group-title="من أجل ابني",184
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/10/1623334064/1623334064/2021-06-10-150744.579263iqdxd.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="https://raw.githubusercontent.com/fatourati/accounts/main/2m.jpg" group-title="من أجل ابني",185
