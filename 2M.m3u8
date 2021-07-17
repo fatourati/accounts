@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",206 LUNDI
+https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/12/1626098894/1626098894/2021-07-12-150814.556529kxkhf.mp4
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",207 MARDI
 https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/13/1626185252/1626185252/2021-07-13-150732.520046tyjcc.mp4
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",208 MERCREDI
@@ -7,6 +9,8 @@ https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/14/1626272355/162627235
 https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/15/1626356600/1626356600/2021-07-15-144320.944844okruy.mp4
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",210 VENDREDI
 http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/16/1626446311/1626446311/2021-07-16-153831.083350ctpjg.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",299 LUNDI
+https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/12/1626119314/1626119314/2021-07-12-204834.739791segrk.mp4
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",300 MARDI
 https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/13/1626206640/1626206640/2021-07-13-210400.399967chlne.mp4
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",301 MERCREDI
