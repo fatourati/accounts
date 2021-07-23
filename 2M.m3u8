@@ -1,21 +1,41 @@
 #EXTM3U
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",206 LUNDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/12/1626098894/1626098894/2021-07-12-150814.556529kxkhf.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",207 MARDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/13/1626185252/1626185252/2021-07-13-150732.520046tyjcc.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",208 MERCREDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/14/1626272355/1626272355/2021-07-14-151915.841046cutrc.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",209 JEUDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/15/1626356600/1626356600/2021-07-15-144320.944844okruy.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="MIN AJL IBNI",210 VENDREDI
-http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/16/1626446311/1626446311/2021-07-16-153831.083350ctpjg.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",299 LUNDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/12/1626119314/1626119314/2021-07-12-204834.739791segrk.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",300 MARDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/13/1626206640/1626206640/2021-07-13-210400.399967chlne.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",301 MERCREDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/14/1626298921/1626298921/2021-07-14-224201.235151ibfgt.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",302 JEUDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/15/1626379452/1626379452/2021-07-15-210412.696544nzfpa.mp4
-#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="ALWA3D",303 VENDREDI
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/16/1626464561/1626464561/2021-07-16-204241.319225utjmh.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",1
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/4/15/1618507276/1618507276/2021-04-15-172116.615593zqjfd.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",2
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/4/22/1619112623/1619112623/2021-04-22-173023.215190ayfbg.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",3
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/4/29/1619713889/1619713889/2021-04-29-163129.169730zueth.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",4
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/5/6/1620328006/1620328006/2021-05-06-190646.495566ospoe.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",5
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/5/13/1620910400/1620910400/2021-05-13-125320.535897ousdp.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",6
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/5/27/1622134308/1622134308/2021-05-27-175148.692044dorko.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",7
+http:
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",8
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/10/1623361518/1623361518/2021-06-10-224518.519226jbmnu.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",9
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/17/1623969966/1623969966/2021-06-17-234605.983100pymvn.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",10
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/6/24/1624573892/1624573892/2021-06-24-233132.060277rpbcf.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",11
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/1/1625166003/1625166003/2021-07-01-200003.655825weuqb.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",12
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/8/1625771809/1625771809/2021-07-08-201649.386186vthbj.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",13
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/15/1626388669/1626388669/2021-07-15-233749.954669kwxue.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",14
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/22/1626967435/1626967435/2021-07-22-162355.633549nspxo.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",15
+http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/7/22/1626972949/1626972949/2021-07-22-175549.239512olbvk.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",16
+http:
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",17
+http:
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",18
+http:
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",19
+http:
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",20
+http:
