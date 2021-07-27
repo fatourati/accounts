@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="TV LIVE",1
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8?v=o90405182210
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",1
 http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/4/15/1618507276/1618507276/2021-04-15-172116.615593zqjfd.mp4
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="DAR SEL3A",2
