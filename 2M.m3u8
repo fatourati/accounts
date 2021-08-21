@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="2M" tvg-logo="" group-title="min ajli ibni",235
 http://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/8/20/1629470404/1629470404/2021-08-20-154004.663344iewww.mp4
+#EXTINF:0 tvg-country="2M" tvg-logo="" group-title="min ajli ibni",AD SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
