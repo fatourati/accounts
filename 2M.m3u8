@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  group-title="2M TV",2M TV live
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1  group-title="toyor majrouha",43
-https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/10/29/1635517050/1635517050/2021-10-29-151730.760791jwjvt.mp4
+#EXTINF:-1  group-title="la7n alhayat",45
+https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/11/2/1635862146/1635862146/2021-11-02-150906.354116tmdxz.mp4
+#EXTINF:-1  group-title="la7n alhayat",46
+https://d3hjh6d7n71rqm.cloudfront.net/mediasfiles/2021/11/3/1635949154/1635949154/2021-11-03-151914.169724zqcen.mp4
